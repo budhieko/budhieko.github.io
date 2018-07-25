@@ -1,0 +1,2474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RW SUKARAMAI.kml</name>
+	<open>1</open>
+	<Style id="falseColor2253041150200343766149701091">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970812">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970113</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701191</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970681">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970108">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149707401">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701012">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701161">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149705711">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970171">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970831</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970691</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970221">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701231">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor2253041150200343766149701631">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149705770</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor22530411502003437661497010120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149705751">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl85">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970471">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor22530411502003437661497010120">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970167">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149705721</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701041</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149707201">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970631">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149701121</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970771</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin77</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl85</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor225304115020034376614970291">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149707401</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor22530411502003437661497054</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149701041">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970831">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor22530411502003437661497054">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970861">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970351</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970151</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970531">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970881">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl84">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701002">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970351">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970411">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149701211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970471</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor22530411502003437661497010101">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970521">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970181</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970171</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor22530411502003437661497033">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970671">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin810">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin771</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl84</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor225304115020034376614970201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970901</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970751</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149705770">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor2253041150200343766149701601">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149705701</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701032</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor2253041150200343766149701141">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor22530411502003437661497033</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970671</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970577">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff5500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor2253041150200343766149701641">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149705711</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701051</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor225304115020034376614970613">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970122</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970301</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970151">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970811">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970881</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970511</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor225304115020034376614970801">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149701101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701161</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor2253041150200343766149707001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970681</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970761</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970122">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970461">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149707201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970531</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149705701">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970601">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970211">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970511">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff55ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor2253041150200343766149701651">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149705741</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701021</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149705731">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor22530411502003437661497010301">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149701091</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701071</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149701071">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970691">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970911">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970113">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970851">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970221</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970311</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149701021">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970181">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701051">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701211">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701191">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor2253041150200343766149701611">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149705751</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970901">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor22530411502003437661497016310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970577</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor2253041150200343766149701012</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor2253041150200343766149701181">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970841</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970601</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970761">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin77">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970841">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149705741">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970311">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970371">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970911</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970621</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970301">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970621">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149705721">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor22530411502003437661497024">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149701231</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor22530411502003437661497010101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor2253041150200343766149701032">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970581">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701121">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor225304115020034376614970751">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin771">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="falseColor2253041150200343766149701101">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor225304115020034376614970651">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor225304115020034376614970211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970581</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor225304115020034376614970771">
+		<IconStyle>
+			<color>ffe7ebef</color>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[Batas_ADM_PKU/Id]</td></tr>
+  <tr><td><b>Kelurahan</b></td><td>$[Batas_ADM_PKU/Kelurahan]</td></tr>
+  <tr><td><b>Kecamatan</b></td><td>$[Batas_ADM_PKU/Kecamatan]</td></tr>
+  <tr><td><b>Luas</b></td><td>$[Batas_ADM_PKU/Luas]</td></tr>
+  <tr><td><b>Kota</b></td><td>$[Batas_ADM_PKU/Kota]</td></tr>
+  <tr><td><b>Shape_Leng</b></td><td>$[Batas_ADM_PKU/Shape_Leng]</td></tr>
+  <tr><td><b>Shape_Area</b></td><td>$[Batas_ADM_PKU/Shape_Area]</td></tr>
+  <tr><td><b>WP</b></td><td>$[Batas_ADM_PKU/WP]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor2253041150200343766149701621">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor2253041150200343766149705731</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor225304115020034376614970108</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>RW SUKARAMAI</name>
+		<Folder>
+			<name>RW01</name>
+			<Placemark>
+				<name>RW1</name>
+				<styleUrl>#falseColor225304115020034376614970651</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								101.4475469490277,0.5322043065327862,0 101.4464823567588,0.5322353381557727,0 101.4451667958328,0.5322396817565123,0 101.4451532828974,0.5320944418829123,0 101.4450869441643,0.5320612399206057,0 101.4450247866977,0.5320266301198158,0 101.4449621485842,0.5320117593510171,0 101.4448540415787,0.5320080646818001,0 101.4448134043522,0.5320266325377109,0 101.4447561448814,0.5320435334865215,0 101.4447118538051,0.5320322471513533,0 101.4446823465895,0.5319878943537607,0 101.4446726748192,0.5319554405832784,0 101.4446633571751,0.5318766638222904,0 101.4446487926358,0.5315491649194539,0 101.4446365571979,0.5314848507501443,0 101.4449477549114,0.5313848573540458,0 101.4451531486203,0.5313186661757849,0 101.4453270039945,0.5312433822184355,0 101.4457571150243,0.5310455312862112,0 101.4475423917702,0.5310444198840797,0 101.4475469490277,0.5322043065327862,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Folder>
+				<name>RT</name>
+				<Placemark>
+					<name>RW01 RT01</name>
+					<styleUrl>#falseColor2253041150200343766149701141</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4452729119028,0.5322367350131915,0 101.4451649611141,0.5322390309443541,0 101.4451695494878,0.5321690607791254,0 101.4451539446601,0.5320962471111232,0 101.4451347690356,0.5320756382703717,0 101.4451105437921,0.5320665861308942,0 101.4450707506352,0.532044239113064,0 101.4450134877492,0.5320183267566444,0 101.4449518798877,0.5320079292436559,0 101.4449039826498,0.5320100085719886,0 101.4448452542114,0.5320100121188509,0 101.4448008015113,0.5320287881843037,0 101.4447773841675,0.5320392859307929,0 101.4447509793079,0.5320434995253812,0 101.4447312090324,0.5320392888006515,0 101.4447056450233,0.5320371873016404,0 101.4446876881261,0.5319955259290568,0 101.4446757944725,0.5319525845813616,0 101.4446473642361,0.5315515275301941,0 101.4446370065073,0.5314909495737347,0 101.4451578970854,0.531319173788408,0 101.4454968060306,0.5311648401357633,0 101.4456953073443,0.5314714773999021,0 101.4454755594874,0.5316401638657691,0 101.4455543267061,0.531945085606461,0 101.445565272427,0.5322370917201432,0 101.4452729119028,0.5322367350131915,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW01 RT01</name>
+					<LookAt>
+						<longitude>101.4459483947163</longitude>
+						<latitude>0.5304818341260891</latitude>
+						<altitude>0</altitude>
+						<heading>-9.730882199854181e-013</heading>
+						<tilt>0</tilt>
+						<range>712.1672155754317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4448638177596,0.5316255637847613,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW01 RT02</name>
+					<LookAt>
+						<longitude>101.4459282847873</longitude>
+						<latitude>0.5315409724082585</latitude>
+						<altitude>0</altitude>
+						<heading>-5.87551142856786e-006</heading>
+						<tilt>47.71771406697825</tilt>
+						<range>213.0105333912463</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#falseColor225304115020034376614970461</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4455668989123,0.5322358071267658,0 101.4455532910291,0.5319426513468687,0 101.4454749858209,0.5316400018011779,0 101.4456934202643,0.5314683312511969,0 101.4455005647797,0.5311617622368715,0 101.4457702673815,0.5310446050628671,0 101.4460320691096,0.5310438713130853,0 101.4460535287395,0.531360232842564,0 101.4461453034876,0.5313628732969886,0 101.446175514797,0.5314346346546715,0 101.446195320454,0.5315189893625699,0 101.4462205561201,0.5316643560917752,0 101.4462741566873,0.5322405773417083,0 101.4455668989123,0.5322358071267658,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW01 RT02</name>
+					<LookAt>
+						<longitude>101.4459483947163</longitude>
+						<latitude>0.5304818341260891</latitude>
+						<altitude>0</altitude>
+						<heading>-9.730882199854181e-013</heading>
+						<tilt>0</tilt>
+						<range>712.1672155754317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4457168936852,0.531608582710792,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW01 RT03</name>
+					<styleUrl>#falseColor22530411502003437661497010301</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4475483780463,0.5321999937781003,0 101.4462747719278,0.5322393960300816,0 101.446218108681,0.5316569008494452,0 101.4461756089802,0.5314298259438928,0 101.4461449690727,0.5313680205656326,0 101.4460547386375,0.5313636719126038,0 101.446035948218,0.5310467592353259,0 101.4475411200635,0.5310435358127238,0 101.4475483780463,0.5321999937781003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW01 RT03</name>
+					<LookAt>
+						<longitude>101.4459483947163</longitude>
+						<latitude>0.5304818341260891</latitude>
+						<altitude>0</altitude>
+						<heading>-9.730882199854181e-013</heading>
+						<tilt>0</tilt>
+						<range>712.1672155754317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4464245050541,0.5318841775170614,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>RW02</name>
+			<Placemark>
+				<name>RW2</name>
+				<styleUrl>#falseColor22530411502003437661497024</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								101.4457614824846,0.5310467933250125,0 101.4456528732696,0.5310964230426298,0 101.4451586575348,0.5313163456028698,0 101.4448859803037,0.5314037834061228,0 101.4446383783832,0.5314848506485594,0 101.4445387033992,0.530884729658066,0 101.4445092006823,0.5302282864558083,0 101.444505630223,0.5298712682273511,0 101.447529404717,0.5298765491034926,0 101.4475360743308,0.5310464229968198,0 101.4457614824846,0.5310467933250125,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Folder>
+				<name>RT</name>
+				<open>1</open>
+				<Placemark>
+					<name>RW02 RT01</name>
+					<styleUrl>#falseColor225304115020034376614970812</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4465052073289,0.5310433378812279,0 101.446503347667,0.5305723100396449,0 101.4465015242661,0.5302229843300595,0 101.4464949429263,0.5298741536980899,0 101.4475298957543,0.5298661001340458,0 101.4475396454734,0.5310446530145911,0 101.4465052073289,0.5310433378812279,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW02 RT01</name>
+					<LookAt>
+						<longitude>101.4459483947163</longitude>
+						<latitude>0.5304818341260891</latitude>
+						<altitude>0</altitude>
+						<heading>-9.730882199854181e-013</heading>
+						<tilt>0</tilt>
+						<range>712.1672155754317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4466341702889,0.5301882784311991,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW02 RT02</name>
+					<styleUrl>#falseColor225304115020034376614970861</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4449823756421,0.5307706140425232,0 101.445041128521,0.5298629969637104,0 101.44568329354,0.5298706280901201,0 101.4464999603306,0.5298728829761155,0 101.4464994819879,0.5305688059047351,0 101.4457290861745,0.5305740806697238,0 101.4455954278588,0.5306157676056125,0 101.4453242477477,0.530670742453892,0 101.4449823756421,0.5307706140425232,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW02 RT02</name>
+					<LookAt>
+						<longitude>101.4459483947163</longitude>
+						<latitude>0.5304818341260891</latitude>
+						<altitude>0</altitude>
+						<heading>-9.730882199854181e-013</heading>
+						<tilt>0</tilt>
+						<range>712.1672155754317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4455523840556,0.5300599119962706,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW02 RT03</name>
+					<styleUrl>#falseColor225304115020034376614970521</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4465046674243,0.5310475380574758,0 101.4457592317233,0.5310456247794636,0 101.4451573817,0.5313242236396427,0 101.4451412404655,0.5312622768721877,0 101.4450278562516,0.5310125220737137,0 101.4449789303244,0.5307718468817735,0 101.4450609907599,0.5307423445426608,0 101.4451436432115,0.5307249023656826,0 101.4453290939914,0.5306651166507846,0 101.4455928541756,0.5306159246170358,0 101.4457309320947,0.5305723969352773,0 101.4465011989931,0.5305722871434798,0 101.4465046674243,0.5310475380574758,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW02 RT03</name>
+					<LookAt>
+						<longitude>101.4459483947163</longitude>
+						<latitude>0.5304818341260891</latitude>
+						<altitude>0</altitude>
+						<heading>-9.730882199854181e-013</heading>
+						<tilt>0</tilt>
+						<range>712.1672155754317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4457128970433,0.5307385157118082,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW02 RT04</name>
+					<styleUrl>#falseColor225304115020034376614970811</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4446360574652,0.5314901208939785,0 101.444537348805,0.5308822359008196,0 101.4445274158569,0.5306942979675053,0 101.4445121644703,0.5303304311094924,0 101.4445050785009,0.5300959868277784,0 101.4445028550176,0.5299095504349152,0 101.4445026685199,0.5298680175402299,0 101.4450409462259,0.5298667365473279,0 101.4450115206948,0.5303321161255985,0 101.4449945411355,0.5305565581688254,0 101.4449797890399,0.5307741367232922,0 101.4449985541979,0.5308563745608695,0 101.4450305409714,0.5310164604964036,0 101.4451387104409,0.531251771627118,0 101.4451559713824,0.531320203249833,0 101.4446360574652,0.5314901208939785,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW02 RT04</name>
+					<LookAt>
+						<longitude>101.4459483947163</longitude>
+						<latitude>0.5304818341260891</latitude>
+						<altitude>0</altitude>
+						<heading>-9.730882199854181e-013</heading>
+						<tilt>0</tilt>
+						<range>712.1672155754317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4446530325317,0.530531471465847,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>RW03</name>
+			<Placemark>
+				<name>RW03</name>
+				<styleUrl>#falseColor225304115020034376614970201</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								101.4464966698922,0.5298688515220543,0 101.4445054425154,0.5298632037557568,0 101.4444325483426,0.5288414785119771,0 101.4445237082234,0.5286109496803865,0 101.4445365191074,0.528473433822764,0 101.4445912325241,0.5283904417305331,0 101.4457040800133,0.5283483507119412,0 101.4475232666037,0.5283633363960183,0 101.4475222128345,0.5285122395176152,0 101.447530119303,0.5292497889591989,0 101.4475284633194,0.5298708676209439,0 101.4456834542868,0.529870805783204,0 101.4450486567956,0.5298656846979754,0 101.4445003821091,0.5298680521413777,0 101.4464966698922,0.5298688515220543,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Folder>
+				<name>RT</name>
+				<open>1</open>
+				<Placemark>
+					<name>RW03 RT01</name>
+					<styleUrl>#falseColor225304115020034376614970291</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4444699966768,0.5293344669271153,0 101.4450295841024,0.5293192887061778,0 101.4457239275556,0.5293346824844091,0 101.4456910957091,0.5298653904169903,0 101.4445039823257,0.5298516289117495,0 101.4444995185875,0.5297310185428725,0 101.4444699966768,0.5293344669271153,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW03 RT01</name>
+					<LookAt>
+						<longitude>101.4459190729091</longitude>
+						<latitude>0.5297078366943298</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001081951559348077</heading>
+						<tilt>0.08687150509182748</tilt>
+						<range>704.4537168322477</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4448064793643,0.5295325827029768,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW03 RT02</name>
+					<styleUrl>#falseColor225304115020034376614970411</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4444328123795,0.5288413711632451,0 101.4446137334587,0.5288300100889551,0 101.4451249251043,0.5288271255018228,0 101.4457139883996,0.5288370465996998,0 101.4457224202182,0.5293330668590083,0 101.444469497548,0.5293343897779519,0 101.4444328123795,0.5288413711632451,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW03 RT02</name>
+					<LookAt>
+						<longitude>101.4459190729091</longitude>
+						<latitude>0.5297078366943298</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001081951559348077</heading>
+						<tilt>0.08687150509182748</tilt>
+						<range>704.4537168322477</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4447944908155,0.5289962793987135,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW03 RT03</name>
+					<styleUrl>#falseColor2253041150200343766149701601</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4450840802038,0.528826968451881,0 101.4446746711899,0.5288294103645541,0 101.4444368443417,0.5288379724394142,0 101.4444563936151,0.5287820821345075,0 101.444461015671,0.5287738170223106,0 101.4444830593981,0.5287157621980148,0 101.4445080390842,0.5286437777056682,0 101.4445291882566,0.528579288137272,0 101.4445285973711,0.5285206451933737,0 101.4445484389708,0.528456913253596,0 101.4445968904176,0.5283875510872163,0 101.4447339857315,0.5283843440169835,0 101.4457121191319,0.5283470127168853,0 101.4465405224535,0.5283425601427029,0 101.4475244021532,0.5283689977931627,0 101.4475322887946,0.5298860695304483,0 101.445690440815,0.5298636298273564,0 101.4457304981733,0.5293316718506697,0 101.4457152272915,0.52883549596736,0 101.4450840802038,0.528826968451881,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW03 RT03</name>
+					<LookAt>
+						<longitude>101.4459190729091</longitude>
+						<latitude>0.5297078366943298</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001081951559348077</heading>
+						<tilt>0.08687150509182748</tilt>
+						<range>704.4537168322477</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4462306292185,0.5291754149057577,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>RW04</name>
+			<Placemark>
+				<name>RW04</name>
+				<styleUrl>#falseColor225304115020034376614970613</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								101.446828377338,0.5283502680120255,0 101.445712296509,0.5283467250772526,0 101.4445927350466,0.528390871793009,0 101.4447026116045,0.5279457747163232,0 101.444789045516,0.5276425543245535,0 101.4457059549375,0.5276167782868578,0 101.4461823266361,0.5275961594850951,0 101.4468139976776,0.5275868456264319,0 101.4472884195663,0.5275736617951895,0 101.4474515643012,0.5275756301664366,0 101.4475247594686,0.5275759365217335,0 101.4475299685746,0.5283584224628277,0 101.446828377338,0.5283502680120255,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Folder>
+				<name>RT</name>
+				<open>1</open>
+				<Placemark>
+					<name>RW04 RT02</name>
+					<styleUrl>#falseColor225304115020034376614970371</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4447891390408,0.5276442508440083,0 101.4456874882399,0.5276132783122813,0 101.4457090342771,0.5283437529017082,0 101.4445942517546,0.5283901046804508,0 101.4447005319843,0.5279541341330853,0 101.4447891390408,0.5276442508440083,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW04 RT01</name>
+					<styleUrl>#falseColor2253041150200343766149701651</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4456913285164,0.527612619406128,0 101.4462650810972,0.5275974217711302,0 101.4475246924842,0.5275772295964407,0 101.4475225751226,0.5283621763698455,0 101.4472865266152,0.5283523652477346,0 101.4457094323499,0.5283492581951094,0 101.4456913285164,0.527612619406128,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW04 RT02</name>
+					<LookAt>
+						<longitude>101.4459059120098</longitude>
+						<latitude>0.5280614497538599</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001083781758255446</heading>
+						<tilt>0.086871497032372</tilt>
+						<range>703.8603394675856</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4449001083185,0.5279846331253119,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW04 RT01</name>
+					<LookAt>
+						<longitude>101.446017514324</longitude>
+						<latitude>0.5280475020773191</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001073485698009187</heading>
+						<tilt>0.08687149927274128</tilt>
+						<range>704.0230290022427</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4461757195909,0.5280172613298656,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>RW05</name>
+			<Placemark>
+				<name>RW05</name>
+				<styleUrl>#falseColor2253041150200343766149701181</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								101.4475268225777,0.52758005128141,0 101.4461622180478,0.5275956235345137,0 101.4461504069642,0.5268659182430007,0 101.4461571871248,0.5266075021060084,0 101.4460932738657,0.526308316376439,0 101.4460498860135,0.5258336879679022,0 101.4463578780549,0.5257882403077994,0 101.4463578779478,0.5257479082565442,0 101.4465378280446,0.5257082432448852,0 101.4465937780593,0.5257084273561861,0 101.4466327854557,0.5257202392482947,0 101.446649681706,0.5257138033689205,0 101.4466574784701,0.5256943598045644,0 101.4468818990007,0.5256730937261065,0 101.4468831940586,0.5256484790579179,0 101.4470035255122,0.5256437511058213,0 101.4470048181723,0.5256605855516663,0 101.4470461719745,0.5256581483615914,0 101.4470487557003,0.5256710993909985,0 101.4474783418487,0.5256465788944099,0 101.4474964576544,0.5260063054814471,0 101.4475268225777,0.52758005128141,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Folder>
+				<name>RT</name>
+				<open>1</open>
+				<Placemark>
+					<name>RW05 RT01</name>
+					<LookAt>
+						<longitude>101.4465830131019</longitude>
+						<latitude>0.526257104599666</latitude>
+						<altitude>0</altitude>
+						<heading>-1.245606820309566e-005</heading>
+						<tilt>3.187204449874495</tilt>
+						<range>273.9579171589718</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#falseColor225304115020034376614970167</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.446152555334,0.5267123662150786,0 101.4468412100308,0.5267085700574636,0 101.4468480578886,0.5266111384552651,0 101.447508494561,0.5266150369217753,0 101.4475174601788,0.5270792451146867,0 101.4475222678595,0.527576537151606,0 101.4461608777037,0.5275873368624069,0 101.4461533340701,0.5272534756941043,0 101.446152555334,0.5267123662150786,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW05 RT01</name>
+					<LookAt>
+						<longitude>101.4467397091707</longitude>
+						<latitude>0.5266903899253628</latitude>
+						<altitude>0</altitude>
+						<heading>-6.662990081974757e-007</heading>
+						<tilt>4.124306495558303</tilt>
+						<range>313.4087807393028</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4467877350082,0.5270909014983592,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW05 RT02</name>
+					<styleUrl>#falseColor2253041150200343766149701631</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4461500906624,0.5267129516082822,0 101.4461388768266,0.5265861978279572,0 101.4460880620146,0.5262946714418774,0 101.4460733642911,0.526078087520093,0 101.4468607453223,0.5260446917569238,0 101.4475001860556,0.5260126871133533,0 101.447504780816,0.5266161518333448,0 101.4468455488533,0.5266144660081854,0 101.4468441243588,0.5267084129342364,0 101.4461500906624,0.5267129516082822,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW05 RT02</name>
+					<LookAt>
+						<longitude>101.4467397091707</longitude>
+						<latitude>0.5266903899253628</latitude>
+						<altitude>0</altitude>
+						<heading>-6.662990081974757e-007</heading>
+						<tilt>4.124306495558303</tilt>
+						<range>313.4087807393028</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4464149172887,0.5263988048423056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW05 RT03</name>
+					<styleUrl>#falseColor22530411502003437661497016310</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4472935728559,0.5260225671271976,0 101.4469967977319,0.5260374634097533,0 101.4466531387398,0.5260534823110792,0 101.4463170828892,0.5260674503395687,0 101.4460715891121,0.5260772470628715,0 101.4460464835901,0.525841247258563,0 101.4463581487893,0.5257887954340706,0 101.4463570687995,0.5257459222429691,0 101.4465364932463,0.5257100954827595,0 101.4465975709267,0.5257092101612162,0 101.4466355451431,0.5257182045113639,0 101.4466483676038,0.5257139576685166,0 101.4466561908699,0.5256942607244715,0 101.4468811042481,0.5256722483029303,0 101.4468821731598,0.5256509219572181,0 101.4470038848997,0.5256447855974114,0 101.4470038848705,0.5256607642852097,0 101.4470475929651,0.5256576576448276,0 101.4470507897146,0.5256725712405374,0 101.4474788028352,0.5256459865079878,0 101.4475001221815,0.526012985312914,0 101.4472935728559,0.5260225671271976,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW06 RT03</name>
+					<LookAt>
+						<longitude>101.4475557772727</longitude>
+						<latitude>0.526374596726318</latitude>
+						<altitude>0</altitude>
+						<heading>6.64978624132062e-006</heading>
+						<tilt>0</tilt>
+						<range>687.9233807075686</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin81</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4463905266747,0.5258579934797504,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>RW06</name>
+			<open>1</open>
+			<Placemark>
+				<name>RW06</name>
+				<styleUrl>#falseColor225304115020034376614970131</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								101.4474916991991,0.5256422116386476,0 101.4470542383387,0.5256687367947535,0 101.4470472823519,0.5256569023731761,0 101.4470035486096,0.5256600759483775,0 101.447008235499,0.525642868068713,0 101.4468847238639,0.5256492467682227,0 101.4468800298249,0.5256727284937423,0 101.4466575356599,0.5256933570725042,0 101.4466512593433,0.525709038422121,0 101.446638705412,0.5257215951891906,0 101.4465963213016,0.5257106812264439,0 101.4465319181354,0.5257076326583727,0 101.4463603930513,0.5257455803949606,0 101.4463556543258,0.5257879969698776,0 101.4460511446347,0.5258348730508964,0 101.4459565316506,0.5251144200718924,0 101.445942398204,0.5249864048082668,0 101.4457466832847,0.5247158749365287,0 101.4455338201813,0.5244565400931268,0 101.4455268898022,0.5243912431246905,0 101.4455028119066,0.5242813753050871,0 101.4458115047742,0.524244168507641,0 101.4460490086888,0.5242121738509601,0 101.4463415975135,0.5241724319874958,0 101.4467617158211,0.5241222144855304,0 101.4474897327143,0.5240442447929766,0 101.4475037809654,0.5245494069319902,0 101.4474916991991,0.5256422116386476,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Folder>
+				<name>RT</name>
+				<open>1</open>
+				<Placemark>
+					<name>RW06 RT01</name>
+					<LookAt>
+						<longitude>101.4468409078577</longitude>
+						<latitude>0.5256962856121626</latitude>
+						<altitude>0</altitude>
+						<heading>-1.247772460052665</heading>
+						<tilt>30.002265896111</tilt>
+						<range>738.776772872695</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#falseColor225304115020034376614970851</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.446918469991,0.5240994812570472,0 101.4459395001713,0.5249872669034943,0 101.4458983151791,0.5249291497500751,0 101.4458326664509,0.5248370512674278,0 101.445731287644,0.5246956707924568,0 101.4455324646019,0.5244573984114498,0 101.4455280068178,0.5244024991265847,0 101.4455046168859,0.5242790016803929,0 101.446918469991,0.5240994812570472,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW06 RT01</name>
+					<LookAt>
+						<longitude>101.4466721548233</longitude>
+						<latitude>0.5255971229997103</latitude>
+						<altitude>0</altitude>
+						<heading>7.4590714377921e-005</heading>
+						<tilt>7.429298804743369</tilt>
+						<range>633.2693318730458</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin81</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4459251792302,0.5244600390409551,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW06 RT02</name>
+					<styleUrl>#falseColor2253041150200343766149707001</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4474883146124,0.5256362415278498,0 101.4470504262349,0.5256715470659903,0 101.4470448671758,0.5256548935392827,0 101.4470017695424,0.5256592243835055,0 101.4470073319859,0.5256425242410846,0 101.4468848594731,0.5256527087325916,0 101.4468806806287,0.5256722004431266,0 101.4466541486599,0.5256971889055662,0 101.446607678817,0.5251836888794126,0 101.4474990724079,0.5251268838193409,0 101.4474883146124,0.5256362415278498,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW06 RT02</name>
+					<LookAt>
+						<longitude>101.446548361533</longitude>
+						<latitude>0.5257702403468356</latitude>
+						<altitude>0</altitude>
+						<heading>6.722817771468319e-005</heading>
+						<tilt>7.428964815642085</tilt>
+						<range>345.6431798034458</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin81</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4469547837725,0.5254083824685346,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW06 RT03</name>
+					<styleUrl>#falseColor225304115020034376614970801</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.446050487539,0.5258341762589027,0 101.4460053131014,0.5254098258981673,0 101.4459425102903,0.5249934283697735,0 101.4459508969194,0.5249844737183972,0 101.4469121800185,0.5241062581717672,0 101.4474917487322,0.5240443854033441,0 101.4475048202813,0.5251228496493987,0 101.447421798781,0.5251294791445499,0 101.4466092094777,0.5251853028410338,0 101.4466436780199,0.5255801233311965,0 101.4466541934708,0.525717050881679,0 101.4465746223628,0.5257050871562441,0 101.4463603389358,0.5257445449757273,0 101.4463564756733,0.5257886855927656,0 101.446050487539,0.5258341762589027,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW06 RT03</name>
+					<LookAt>
+						<longitude>101.4463659220057</longitude>
+						<latitude>0.5256961869012692</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001040652519540898</heading>
+						<tilt>0.08687152074504155</tilt>
+						<range>705.5963992542087</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4463705827889,0.5249061899438502,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>RW07</name>
+			<open>1</open>
+			<Placemark>
+				<name>RW07</name>
+				<styleUrl>#falseColor225304115020034376614970631</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								101.4460004492606,0.5254380258149887,0 101.4460691356578,0.5260360626720303,0 101.4460858745587,0.5262682954272419,0 101.4461306379741,0.5264957781110798,0 101.44615883655,0.526601667296103,0 101.446156032551,0.527590963740537,0 101.4447871855738,0.5276495458916666,0 101.4447897017861,0.5276015503310821,0 101.4448581520319,0.5275885554007221,0 101.4448740563425,0.5272132507070486,0 101.4450362659172,0.5265415946971418,0 101.4451943139509,0.5258890101620982,0 101.4452199397149,0.5257056921134246,0 101.4452617821762,0.5255953479792929,0 101.4455771205707,0.5253153131538254,0 101.4459384681986,0.5249760381741221,0 101.4459789474846,0.525269681444933,0 101.4460004492606,0.5254380258149887,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Folder>
+				<name>RT</name>
+				<open>1</open>
+				<Placemark>
+					<name>RW07 RT01</name>
+					<styleUrl>#falseColor2253041150200343766149701621</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4457243087076,0.5276145149172553,0 101.445725776153,0.5270046470372182,0 101.4457365547307,0.5266484877788138,0 101.4458225457548,0.5262206898149957,0 101.4458747041928,0.5260586978415125,0 101.4460653275766,0.5260448601972506,0 101.4460988836181,0.5263678238600691,0 101.4461591189736,0.5266085329092356,0 101.4461594910772,0.5267630476148598,0 101.4461525866413,0.5269373599794557,0 101.4461580852412,0.5273299338833016,0 101.446161006052,0.5275976158248745,0 101.4457243087076,0.5276145149172553,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW07 RT01</name>
+					<LookAt>
+						<longitude>101.4463659220057</longitude>
+						<latitude>0.5256961869012692</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001040652519540898</heading>
+						<tilt>0.08687152074504155</tilt>
+						<range>705.5963992542087</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4458111966522,0.5269803917997061,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW07 RT02</name>
+					<styleUrl>#falseColor2253041150200343766149701641</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4458227032836,0.5262178721225626,0 101.4457386745908,0.5266613910588663,0 101.4457209235885,0.5276145152882638,0 101.4447940505461,0.5276485539771078,0 101.4447956693386,0.5276019758125953,0 101.4448627768574,0.5275851705403316,0 101.4448734797492,0.5272069547706401,0 101.4451459720268,0.5260829210715946,0 101.4453500751776,0.5260937050702991,0 101.4458802200287,0.5260560244627881,0 101.4458227032836,0.5262178721225626,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW07 RT02</name>
+					<LookAt>
+						<longitude>101.4463659220057</longitude>
+						<latitude>0.5256961869012692</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001040652519540898</heading>
+						<tilt>0.08687152074504155</tilt>
+						<range>705.5963992542087</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4450976747551,0.5272977473648308,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>RW07 RT03</name>
+					<styleUrl>#falseColor2253041150200343766149701611</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									101.4453446228888,0.5260932439494273,0 101.4451484165216,0.5260792419601184,0 101.4451890329925,0.5259119576412987,0 101.4452207161619,0.5257021189460817,0 101.4452649255008,0.5255974552521231,0 101.4459334815584,0.5249731907632885,0 101.445993959425,0.5253669465586786,0 101.4460684051852,0.5260404132351377,0 101.4453446228888,0.5260932439494273,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>RW07 RT03</name>
+					<LookAt>
+						<longitude>101.4463659220057</longitude>
+						<latitude>0.5256961869012692</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001040652519540898</heading>
+						<tilt>0.08687152074504155</tilt>
+						<range>705.5963992542087</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin810</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>101.4453894539675,0.5257639499832549,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
